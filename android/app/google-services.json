@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784490319884",
+    "project_id": "fir-auth-84cf0",
+    "storage_bucket": "fir-auth-84cf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784490319884:android:193d392a33af27895f9e29",
+        "android_client_info": {
+          "package_name": "com.example.agro_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784490319884-b3avae5lck4qirusd20428f7ps012q9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRIP17EAVFr3pH3nHbik1eyyCvYoK-YYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784490319884-b3avae5lck4qirusd20428f7ps012q9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
